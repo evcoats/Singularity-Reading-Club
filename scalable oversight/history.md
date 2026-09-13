@@ -1,8 +1,5 @@
 # Self-Improving Systems: A Historical & Conceptual Primer for Scalable Oversight
 ### A 90-minute hybrid graduate seminar — University of Illinois Urbana-Champaign
-
-> **Verification note (read first).** The automated web tools in the authoring environment were non-operational, so every quotation below is drawn from well-established primary works and is tagged with a confidence level: **[VERBATIM — high confidence]**, **[SUBSTANCE confident, wording verify]**, or **[PARAPHRASE — reconstruct before quoting on a slide]**. Bibliographic facts (authors, titles, years, journals, volumes, pages) are high-confidence. **URLs are given in their canonical form but were NOT liveness-tested; test each before the session and do not project a link you have not opened yourself.** Where a popular attribution is disputed, that is flagged inline. This honesty is itself a teaching point: a primer about oversight should model verifiable sourcing.
-
 ---
 
 ## TL;DR
