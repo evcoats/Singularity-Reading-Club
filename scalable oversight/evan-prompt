@@ -1,0 +1,14 @@
+Let's aim for 30 minutes of von Neumann Illinois Lectures on Theory of Self-Reproducing Automata (von Neumann universal constructor) Astrochicken (Freeman Dyson), combined with 30 minutes of Neuroplasticity combined with Gödel numbering, then 30 minutes on recursion and self-similarity.
+
+Generate a lot of readable content, and links to quotes for the following primer on self-improving systems. Also state the problem of scalable oversight but don't talk about current methods, this is just the historical discussion. We'll also want to make a slideshow including interesting discussion points. 
+
+For the von neumann one, we want to review moreso the history and even include biographical elements of him and freeman dyson, astrochichken, von neumann probes, and of course the way in which the self-reproducing automata doesn't modify the replication mechanism, A la DNA. However, focus on his universal constructor from the illinois lectures. 
+
+Find a way to relate Godel numbering and neuroplasticity to self-reference and self-modifying systems, and to eachother. Is there any analogy? Do neuroplastic neurons have self-reference? How does neuroplasticity relate to self-improving AI?
+
+Then we will do a coding demo on the Sierpiński triangle, programming it with recursion, and finding the fractal dimension. Then we will describe how scale invariance works and how we could measure it in the Sierpinski triangle, for example. Also discuss scale invariance in computer and biological vision.
+
+Then we will open it up for defocused discussion.
+
+While writing this plan, focus on links with cool visuals that would be interactive to discuss, such as fractals being drawn etc, citable quotes, and
+
